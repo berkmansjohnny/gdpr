@@ -1,0 +1,391 @@
+<!-- HOOFDSTUK VIII -->
+<section>
+        <p id="d1e6074-1-1" class="ti-section-1">
+            <span class="italic">HOOFDSTUK VIII</span>
+        </p>
+        <p id="L_2016119NL.01000101-d-023" class="ti-section-2">
+            <span class="bold">
+         <span class="italic">Beroep, aansprakelijkheid en sancties</span>
+            </span>
+        </p>
+        <p id="d1e6084-1-1" class="ti-art">Artikel 77</p>
+        <p class="sti-art">Recht om klacht in te dienen bij een toezichthoudende autoriteit</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Onverminderd andere mogelijkheden van administratief beroep of een voorziening in rechte, heeft iedere betrokkene het recht een klacht in te dienen bij een toezichthoudende autoriteit, met name in de lidstaat waar hij gewoonlijk
+            verblijft, hij zijn werkplek heeft of waar de beweerde inbreuk is begaan, indien hij van mening is dat de verwerking van hem betreffende persoonsgegevensinbreuk maakt op deze verordening.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;De toezichthoudende autoriteit waarbij de klacht is ingediend, stelt de klager in kennis van de voortgang en het resultaat van de klacht, alsmede van de mogelijke voorziening in rechte overeenkomstig artikel&nbsp;78.</p>
+        <p id="d1e6099-1-1" class="ti-art">Artikel 78</p>
+        <p class="sti-art">Recht om een doeltreffende voorziening in rechte in te stellen tegen een toezichthoudende autoriteit</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Onverminderd andere mogelijkheden van administratief of buitengerechtelijk beroep, heeft iedere natuurlijke persoon of rechtspersoon het recht om tegen een hem betreffend juridisch bindend besluit van een toezichthoudende autoriteit
+            een doeltreffende voorziening in rechte in te stellen.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Onverminderd andere mogelijkheden van administratief of buitengerechtelijk beroep heeft iedere betrokkene het recht om een doeltreffende voorziening in rechte in te stellen indien de overeenkomstig de artikelen&nbsp;55 en&nbsp;56
+            bevoegde toezichthoudende autoriteit een klacht niet behandelt of de betrokkene niet binnen drie maanden in kennis stelt van de voortgang of het resultaat van de uit hoofde van artikel&nbsp;77 ingediende klacht.</p>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;Een procedure tegen een toezichthoudende autoriteit wordt ingesteld bij de gerechten van de lidstaat waar de toezichthoudende autoriteit is gevestigd.</p>
+        <p class="normal">4.&nbsp;&nbsp;&nbsp;Wanneer een procedure wordt ingesteld tegen een besluit van een toezichthoudende autoriteit waaraan een advies of een besluit van het Comité in het kader van het coherentiemechanisme is voorafgegaan, doet de toezichthoudende
+            autoriteit dat advies of besluit aan de gerechten toekomen.</p>
+        <p id="d1e6124-1-1" class="ti-art">Artikel 79</p>
+        <p class="sti-art">Recht om een doeltreffende voorziening in rechte in te stellen tegen een verwerkingsverantwoordelijke of een verwerker</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Onverminderd andere mogelijkheden van administratief of buitengerechtelijk beroep, waaronder het recht uit hoofde van artikel&nbsp;77 een klacht in te dienen bij een toezichthoudende autoriteit, heeft elke betrokkene het recht
+            een doeltreffende voorziening in rechte in te stellen indien hij van mening is dat zijn rechten uit hoofde van deze verordening geschonden zijn ten gevolge van een verwerking van zijn persoonsgegevens die niet aan deze verordening voldoet.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Een procedure tegen een verwerkingsverantwoordelijke of een verwerker wordt ingesteld bij de gerechten van de lidstaat waar de verwerkingsverantwoordelijke of de verwerker een vestiging heeft. Een dergelijke procedure kan ook
+            worden ingesteld bij de gerechten van de lidstaat waar de betrokkene gewoonlijk verblijft, tenzij de verwerkingsverantwoordelijke of de verwerker een overheidsinstantie van een lidstaat is die optreedt in de uitoefening van het overheidsgezag.</p>
+        <p id="d1e6139-1-1" class="ti-art">Artikel 80</p>
+        <p class="sti-art">Vertegenwoordiging van betrokkenen</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;De betrokkene heeft het recht een orgaan, organisatie of vereniging zonder winstoogmerk dat of die op geldige wijze volgens het recht van een lidstaat is opgericht, waarvan de statutaire doelstellingen het openbare belang dienen
+            en dat of die actief is op het gebied van de bescherming van de rechten en vrijheden van de betrokkene in verband met de bescherming van diens persoonsgegevens, opdracht te geven de klacht namens hem in te dienen, namens hem de in artikelen&nbsp;77,
+            78 en&nbsp;79 bedoelde rechten uit te oefenen en namens hem het in artikel&nbsp;82 bedoelde recht op schadevergoeding uit te oefenen, indien het lidstatelijke recht daarin voorziet.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;De lidstaten kunnen bepalen dat een orgaan, organisatie of vereniging als bedoeld in lid&nbsp;1 van dit artikel, over het recht beschikt om onafhankelijk van de opdracht van een betrokkene in die lidstaat klacht in te dienen
+            bij de overeenkomstig artikel&nbsp;77 bevoegde toezichthoudende autoriteit en de in de artikelen&nbsp;78 en&nbsp;79 bedoelde rechten uit te oefenen, indien het/zij van mening is dat de rechten van een betrokkene uit hoofde van deze verordening
+            zijn geschonden ten gevolge van de verwerking.</p>
+        <p id="d1e6154-1-1" class="ti-art">Artikel 81</p>
+        <p class="sti-art">Schorsing van de procedure</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Indien een bevoegd gerecht van een lidstaat over informatie beschikt dat bij een gerecht van een andere lidstaat een procedure inzake verwerking betreffende dezelfde aangelegenheid en dezelfde verwerkingsverantwoordelijke of
+            verwerker hangende is, neemt het contact op met dat gerecht in de andere lidstaat om het bestaan van die procedure te verifiëren.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Indien een procedure inzake verwerking met betrekking tot dezelfde aangelegenheid en dezelfde verwerkingsverantwoordelijke of verwerker hangende is bij een gerecht van een andere lidstaat, kan ieder ander bevoegd gerecht dan
+            dat welk als eerste is aangezocht, zijn procedure schorsen.</p>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;Indien die procedure in eerste aanleg aanhangig is, kan elk gerecht dat niet als eerste is aangezocht, op verzoek van een van de partijen ook tot verwijzing overgaan, mits het eerst aangezochte gerecht bevoegd is om van de
+            beide procedures kennis te nemen en zijn wetgeving de voeging daarvan toestaat.</p>
+        <p id="d1e6174-1-1" class="ti-art">Artikel 82</p>
+        <p class="sti-art">Recht op schadevergoeding en aansprakelijkheid</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Eenieder die materiële of immateriële schade heeft geleden ten gevolge van een inbreuk op deze verordening, heeft het recht om van de verwerkingsverantwoordelijke of de verwerker schadevergoeding te ontvangen voor de geleden
+            schade.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Elke verwerkingsverantwoordelijke die bij verwerking is betrokken, is aansprakelijk voor de schade die wordt veroorzaakt door verwerking die inbreuk maakt op deze verordening. Een verwerker is slechts aansprakelijk voor de
+            schade die door verwerking is veroorzaakt wanneer bij de verwerking niet is voldaan aan de specifiek tot verwerkers gerichte verplichtingen van deze verordening of buiten dan wel in strijd met de rechtmatige instructies van de verwerkingsverantwoordelijke
+            is gehandeld.</p>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;Een verwerkingsverantwoordelijke of verwerker wordt van aansprakelijkheid op grond van lid&nbsp;2 vrijgesteld indien hij bewijst dat hij op geen enkele wijze verantwoordelijk is voor het schadeveroorzakende feit.</p>
+        <p class="normal">4.&nbsp;&nbsp;&nbsp;Wanneer meerdere verwerkingsverantwoordelijken of verwerkers bij dezelfde verwerking betrokken zijn, en overeenkomstig de leden&nbsp;2 en&nbsp;3 verantwoordelijk zijn voor schade die door verwerking is veroorzaakt, wordt elke
+            verwerkingsverantwoordelijke of verwerker voor de gehele schade aansprakelijk gehouden teneinde te garanderen dat de betrokkene daadwerkelijk wordt vergoed.</p>
+        <p class="normal">5.&nbsp;&nbsp;&nbsp;Wanneer een verwerkingsverantwoordelijke of verwerker de schade overeenkomstig lid&nbsp;4 geheel heeft vergoed, kan deze verwerkingsverantwoordelijke of verwerker op andere verwerkingsverantwoordelijken of verwerkers die bij
+            de verwerking waren betrokken, het deel van de schadevergoeding verhalen dat overeenkomt met hun deel van de aansprakelijkheid voor de schade, overeenkomstig de in lid&nbsp;2 gestelde voorwaarden.</p>
+        <p class="normal">6.&nbsp;&nbsp;&nbsp;Gerechtelijke procedures voor het uitoefenen van het recht op schadevergoeding worden gevoerd voor de in artikel&nbsp;79, lid&nbsp;2, bedoelde lidstaatrechtelijk bevoegde gerechten.</p>
+        <p id="d1e6209-1-1" class="ti-art">Artikel 83</p>
+        <p class="sti-art">Algemene voorwaarden voor het opleggen van administratieve geldboeten</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Elke toezichthoudende autoriteit zorgt ervoor dat de administratieve geldboeten die uit hoofde van dit artikel worden opgelegd voor de in de leden&nbsp;4, 5 en&nbsp;6 vermelde inbreuken op deze verordening in elke zaak doeltreffend,
+            evenredig en afschrikkend zijn.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Administratieve geldboeten worden, naargelang de omstandigheden van het concrete geval, opgelegd naast of in plaats van de in artikel&nbsp;58, lid&nbsp;2, onder&nbsp;a) tot en met&nbsp;h) en onder&nbsp;j), bedoelde maatregelen.
+            Bij het besluit over de vraag of een administratieve geldboete wordt opgelegd en over de hoogte daarvan wordt voor elk concreet geval naar behoren rekening gehouden met het volgende:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de aard, de ernst en de duur van de inbreuk, rekening houdend met de aard, de omvang of het doel van de verwerking in kwestie alsmede het aantal getroffen betrokkenen en de omvang van de door hen geleden schade;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de opzettelijke of nalatige aard van de inbreuk;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de door de verwerkingsverantwoordelijke of de verwerker genomen maatregelen om de door betrokkenen geleden schade te beperken;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">d)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de mate waarin de verwerkingsverantwoordelijke of de verwerker verantwoordelijk is gezien de technische en organisatorische maatregelen die hij heeft uitgevoerd overeenkomstig de artikelen&nbsp;25 en&nbsp;32;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">e)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">eerdere relevante inbreuken door de verwerkingsverantwoordelijke of de verwerker;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">f)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de mate waarin er met de toezichthoudende autoriteit is samengewerkt om de inbreuk te verhelpen en de mogelijke negatieve gevolgen daarvan te beperken;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">g)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de categorieën van persoonsgegevens waarop de inbreuk betrekking heeft;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">h)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de wijze waarop de toezichthoudende autoriteit kennis heeft gekregen van de inbreuk, met name of, en zo ja in hoeverre, de verwerkingsverantwoordelijke of de verwerker de inbreuk heeft gemeld;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">i)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de naleving van de in artikel&nbsp;58, lid&nbsp;2, genoemde maatregelen, voor zover die eerder ten aanzien van de verwerkingsverantwoordelijke of de verwerker in kwestie met betrekking tot dezelfde aangelegenheid zijn genomen;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">j)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">het aansluiten bij goedgekeurde gedragscodes overeenkomstig artikel&nbsp;40 of van goedgekeurde certificeringsmechanismen overeenkomstig artikel&nbsp;42; en</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">k)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">elke andere op de omstandigheden van de zaak toepasselijke verzwarende of verzachtende factor, zoals gemaakte financiële winsten, of vermeden verliezen, die al dan niet rechtstreeks uit de inbreuk voortvloeien.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;Indien een verwerkingsverantwoordelijke of een verwerker opzettelijk of uit nalatigheid met betrekking tot dezelfde of daarmee verband houdende verwerkingsactiviteiten een inbreuk pleegt op meerdere bepalingen van deze verordening,
+            is de totale geldboete niet hoger dan die voor de zwaarste inbreuk.</p>
+        <p class="normal">4.&nbsp;&nbsp;&nbsp;Inbreuken op onderstaande bepalingen zijn overeenkomstig lid&nbsp;2 onderworpen aan administratieve geldboeten tot 10&nbsp;000&nbsp;000&nbsp;EUR of, voor een onderneming, tot 2 % van de totale wereldwijde jaaromzet in het voorgaande
+            boekjaar, indien dit cijfer hoger is:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verplichtingen van de verwerkingsverantwoordelijke en de verwerker overeenkomstig de artikelen&nbsp;8, 11, 25 tot en met 39, en 42 en&nbsp;43;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verplichtingen van het certificeringsorgaan overeenkomstig de artikelen&nbsp;42 en&nbsp;43;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verplichtingen van het toezichthoudend orgaan overeenkomstig artikel&nbsp;41, lid&nbsp;4.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">5.&nbsp;&nbsp;&nbsp;Inbreuken op onderstaande bepalingen zijn overeenkomstig lid&nbsp;2 onderworpen aan administratieve geldboeten tot 20&nbsp;000&nbsp;000&nbsp;EUR of, voor een onderneming, tot 4 % van de totale wereldwijde jaaromzet in het voorgaande
+            boekjaar, indien dit cijfer hoger is:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de basisbeginselen inzake verwerking, met inbegrip van de voorwaarden voor toestemming, overeenkomstig de artikelen&nbsp;5, 6, 7 en&nbsp;9;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de rechten van de betrokkenen overeenkomstig de artikelen&nbsp;12 tot en met&nbsp;22;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de doorgiften van persoonsgegevens aan een ontvanger in een derde land of een internationale organisatie overeenkomstig de artikelen&nbsp;44 tot en met&nbsp;49;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">d)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">alle verplichtingen uit hoofde van krachtens hoofdstuk&nbsp;IX door de lidstaten vastgesteldrecht;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">e)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">niet-naleving van een bevel of een tijdelijke of definitieve verwerkingsbeperking of een opschorting van gegevensstromen door de toezichthoudende autoriteit overeenkomstig artikel&nbsp;58, lid&nbsp;2, of niet-verlening van toegang
+                            in strijd met artikel&nbsp;58, lid&nbsp;1.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">6.&nbsp;&nbsp;&nbsp;Niet-naleving van een bevel van de toezichthoudende autoriteit als bedoeld in artikel&nbsp;58, lid&nbsp;2, is overeenkomstig lid&nbsp;2 van dit artikel onderworpen aan administratieve geldboeten tot 20&nbsp;000&nbsp;000&nbsp;EUR
+            of, voor een onderneming, tot 4 % van de totale wereldwijde jaaromzet in het voorgaande boekjaar, indien dit cijfer hoger is.</p>
+        <p class="normal">7.&nbsp;&nbsp;&nbsp;Onverminderd de bevoegdheden tot het nemen van corrigerende maatregelen van de toezichthoudende autoriteiten overeenkomstig artikel&nbsp;58, lid&nbsp;2, kan elke lidstaat regels vaststellen betreffende de vraag of en in hoeverre
+            administratieve geldboeten kunnen worden opgelegd aan in die lidstaat gevestigde overheidsinstanties en overheidsorganen.</p>
+        <p class="normal">8.&nbsp;&nbsp;&nbsp;De uitoefening door de toezichthoudende autoriteit van haar bevoegdheden uit hoofde van dit artikel is onderworpen aan passende procedurele waarborgen overeenkomstig het Unierecht en het lidstatelijke recht, waaronder een doeltreffende
+            voorziening in rechte en eerlijke rechtsbedeling.</p>
+        <p class="normal">9.&nbsp;&nbsp;&nbsp;Wanneer het rechtsstelsel van de lidstaat niet voorziet in administratieve geldboeten, kan dit artikel aldus worden toegepast dat geldboeten worden geïnitieerd door de bevoegde toezichthoudende autoriteit en opgelegd door bevoegde
+            nationale gerechten, waarbij wordt gewaarborgd dat deze rechtsmiddelen doeltreffend zijn en eenzelfde effect hebben als de door toezichthoudende autoriteiten opgelegde administratieve geldboeten. De boeten zijn in elk geval doeltreffend, evenredig
+            en afschrikkend. Die lidstaten delen de Commissie uiterlijk op 25&nbsp;mei 2018 de wetgevingsbepalingen mee die zij op grond van dit lid vaststellen, alsmede onverwijld alle latere wijzigingen daarvan en alle daarop van invloed zijnde wijzigingswetgeving.</p>
+        <p id="d1e6391-1-1" class="ti-art">Artikel 84</p>
+        <p class="sti-art">Sancties</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;De lidstaten stellen de regels inzake andere sancties vast die van toepassing zijn op inbreuken op deze verordening, in het bijzonder op inbreuken die niet aan administratieve geldboeten onderworpen zijn overeenkomstig artikel&nbsp;83,
+            en treffen alle nodige maatregelen om ervoor te zorgen dat zij worden toegepast. Die sancties zijn doeltreffend, evenredig en afschrikkend.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Elke lidstaat deelt de Commissie uiterlijk op 25&nbsp;mei 2018 de overeenkomstig lid&nbsp;1 vastgestelde wetgevingsbepalingen mee, alsook onverwijld alle latere wijzigingen daarvan.</p>
+</section>

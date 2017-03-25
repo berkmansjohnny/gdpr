@@ -1,0 +1,554 @@
+<!-- HOOFDSTUK II -->
+<section id="chapter-2" class="stack">
+        <p id="d1e1789-1-1" class="ti-section-1">
+            <span class="italic">HOOFDSTUK II</span>
+        </p>
+        <p id="L_2016119NL.01000101-d-002" class="ti-section-2">
+            <span class="bold">
+         <span class="italic">Beginselen</span>
+            </span>
+        </p>
+        <p id="d1e1799-1-1" class="ti-art">Artikel 5</p>
+        <p class="sti-art">Beginselen inzake verwerking van persoonsgegevens</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Persoonsgegevens moeten:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">worden verwerkt op een wijze die ten aanzien van de betrokkene rechtmatig, behoorlijk en transparant is („rechtmatigheid, behoorlijkheid en transparantie”);</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden worden verzameld en mogen vervolgens niet verder op een met die doeleinden onverenigbare wijze worden verwerkt; de verdere verwerking met het oog op archivering
+                            in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden wordt overeenkomstig artikel&nbsp;89, lid&nbsp;1, niet als onverenigbaar met de oorspronkelijke doeleinden beschouwd („doelbinding”);</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">toereikend zijn, ter zake dienend en beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt („minimale gegevensverwerking”);</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">d)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">juist zijn en zo nodig worden geactualiseerd; alle redelijke maatregelen moeten worden genomen om de persoonsgegevens die, gelet op de doeleinden waarvoor zij worden verwerkt, onjuist zijn, onverwijld te wissen of te rectificeren
+                            („juistheid”);</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">e)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">worden bewaard in een vorm die het mogelijk maakt de betrokkenen niet langer te identificeren dan voor de doeleinden waarvoor de persoonsgegevens worden verwerkt noodzakelijk is; persoonsgegevens mogen voor langere perioden worden
+                            opgeslagen voor zover de persoonsgegevens louter met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden worden verwerkt overeenkomstig artikel&nbsp;89, lid&nbsp;1,
+                            mits de bij deze verordening vereiste passende technische en organisatorische maatregelen worden getroffen om de rechten en vrijheden van de betrokkene te beschermen („opslagbeperking”);</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">f)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">door het nemen van passende technische of organisatorische maatregelen op een dusdanige manier worden verwerkt dat een passende beveiliging ervan gewaarborgd is, en dat zij onder meer beschermd zijn tegen ongeoorloofde of onrechtmatige
+                            verwerking en tegen onopzettelijk verlies, vernietiging of beschadiging („integriteit en vertrouwelijkheid”).</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;De verwerkingsverantwoordelijke is verantwoordelijk voor de naleving van lid&nbsp;1 en kan deze aantonen („verantwoordingsplicht”).</p>
+        <p id="d1e1880-1-1" class="ti-art">Artikel 6</p>
+        <p class="sti-art">Rechtmatigheid van de verwerking</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;De verwerking is alleen rechtmatig indien en voor zover aan ten minste een van de onderstaande voorwaarden is voldaan:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de betrokkene heeft toestemming gegeven voor de verwerking van zijn persoonsgegevens voor een of meer specifieke doeleinden;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk voor de uitvoering van een overeenkomst waarbij de betrokkene partij is, of om op verzoek van de betrokkene vóór de sluiting van een overeenkomst maatregelen te nemen;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk om te voldoen aan een wettelijke verplichting die op de verwerkingsverantwoordelijke rust;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">d)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk om de vitale belangen van de betrokkene of van een andere natuurlijke persoon te beschermen;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">e)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk voor de vervulling van een taak van algemeen belang of van een taak in het kader van de uitoefening van het openbaar gezag dat aan de verwerkingsverantwoordelijke is opgedragen;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">f)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk voor de behartiging van de gerechtvaardigde belangen van de verwerkingsverantwoordelijke of van een derde, behalve wanneer de belangen of de grondrechten en de fundamentele vrijheden van de betrokkene
+                            die tot bescherming van persoonsgegevens nopen, zwaarder wegen dan die belangen, met name wanneer de betrokkene een kind is.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">De eerste alinea, punt&nbsp;f), geldt niet voor de verwerking door overheidsinstanties in het kader van de uitoefening van hun taken.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;De lidstaten kunnen specifiekere bepalingen handhaven of invoeren ter aanpassing van de manier waarop de regels van deze verordening met betrekking tot de verwerking met het oog op de naleving van lid&nbsp;1, punten&nbsp;c)
+            en&nbsp;e), worden toegepast; hiertoe kunnen zij een nadere omschrijving geven van specifieke voorschriften voor de verwerking en andere maatregelen om een rechtmatige en behoorlijke verwerking te waarborgen, ook voor andere specifieke verwerkingssituaties
+            als bedoeld in hoofdstuk&nbsp;IX.</p>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;De rechtsgrond voor de in lid&nbsp;1, punten&nbsp;c) en&nbsp;e), bedoelde verwerking moet worden vastgesteld bij:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">Unierecht; of</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">lidstatelijk recht dat op de verwerkingsverantwoordelijke van toepassing is.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">Het doel van de verwerking wordt in die rechtsgrond vastgesteld of is met betrekking tot de in lid&nbsp;1, punt&nbsp;e), bedoelde verwerking noodzakelijk voor de vervulling van een taak van algemeen belang of voor de uitoefening van het openbaar
+            gezag dat aan de verwerkingsverantwoordelijke is verleend. Die rechtsgrond kan specifieke bepalingen bevatten om de toepassing van de regels van deze verordening aan te passen, met inbegrip van de algemene voorwaarden inzake de rechtmatigheid
+            van verwerking door de verwerkingsverantwoordelijke; de types verwerkte gegevens; de betrokkenen; de entiteiten waaraan en de doeleinden waarvoor de persoonsgegevens mogen worden verstrekt; de doelbinding; de opslagperioden; en de verwerkingsactiviteiten
+            en -procedures, waaronder maatregelen om te zorgen voor een rechtmatige en behoorlijke verwerking, zoals die voor andere specifieke verwerkingssituaties als bedoeld in hoofdstuk&nbsp;IX. Het Unierecht of het lidstatelijke recht moet beantwoorden
+            aan een doelstelling van algemeen belang en moet evenredig zijn met het nagestreefde gerechtvaardigde doel.</p>
+        <p class="normal">4.&nbsp;&nbsp;&nbsp;Wanneer de verwerking voor een ander doel dan dat waarvoor de persoonsgegevens zijn verzameld niet berust op toestemming van de betrokkene of op een Unierechtelijke bepaling of een lidstaatrechtelijke bepaling die in een democratische
+            samenleving een noodzakelijke en evenredige maatregel vormt ter waarborging van de in artikel&nbsp;23, lid&nbsp;1, bedoelde doelstellingen houdt de verwerkingsverantwoordelijke bij de beoordeling van de vraag of de verwerking voor een ander
+            doel verenigbaar is met het doel waarvoor de persoonsgegevens aanvankelijk zijn verzameld onder meer rekening met:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">ieder verband tussen de doeleinden waarvoor de persoonsgegevens zijn verzameld, en de doeleinden van de voorgenomen verdere verwerking;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">het kader waarin de persoonsgegevens zijn verzameld, met name wat de verhouding tussen de betrokkenen en de verwerkingsverantwoordelijke betreft;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de aard van de persoonsgegevens, met name of bijzondere categorieën van persoonsgegevens worden verwerkt, overeenkomstig artikel&nbsp;9, en of persoonsgegevens over strafrechtelijke veroordelingen en strafbare feiten worden verwerkt,
+                            overeenkomstig artikel&nbsp;10;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">d)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de mogelijke gevolgen van de voorgenomen verdere verwerking voor de betrokkenen;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">e)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">het bestaan van passende waarborgen, waaronder eventueel versleuteling of pseudonimisering.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p id="d1e1993-1-1" class="ti-art">Artikel 7</p>
+        <p class="sti-art">Voorwaarden voor toestemming</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Wanneer de verwerking berust op toestemming, moet de verwerkingsverantwoordelijke kunnen aantonen dat de betrokkene toestemming heeft gegeven voor de verwerking van zijn persoonsgegevens.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Indien de betrokkene toestemming geeft in het kader van een schriftelijke verklaring die ook op andere aangelegenheden betrekking heeft, wordt het verzoek om toestemming in een begrijpelijke en gemakkelijk toegankelijke vorm
+            en in duidelijke en eenvoudige taal zodanig gepresenteerd dat een duidelijk onderscheid kan worden gemaakt met de andere aangelegenheden. Wanneer een gedeelte van een dergelijke verklaring een inbreuk vormt op deze verordening, is dit gedeelte
+            niet bindend.</p>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;De betrokkene heeft het recht zijn toestemming te allen tijde in te trekken. Het intrekken van de toestemming laat de rechtmatigheid van de verwerking op basis van de toestemming vóór de intrekking daarvan, onverlet. Alvorens
+            de betrokkene zijn toestemming geeft, wordt hij daarvan in kennis gesteld. Het intrekken van de toestemming is even eenvoudig als het geven ervan.</p>
+        <p class="normal">4.&nbsp;&nbsp;&nbsp;Bij de beoordeling van de vraag of de toestemming vrijelijk kan worden gegeven, wordt onder meer ten sterkste rekening gehouden met de vraag of voor de uitvoering van een overeenkomst, met inbegrip van een dienstenovereenkomst,
+            toestemming vereist is voor een verwerking van persoonsgegevens die niet noodzakelijk is voor de uitvoering van die overeenkomst.</p>
+        <p id="d1e2018-1-1" class="ti-art">Artikel 8</p>
+        <p class="sti-art">Voorwaarden voor de toestemming van kinderen met betrekking tot diensten van de informatiemaatschappij</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Wanneer artikel&nbsp;6, lid&nbsp;1, punt&nbsp;a), van toepassing is in verband met een rechtstreeks aanbod van diensten van de informatiemaatschappij aan een kind, is de verwerking van persoonsgegevens van een kind rechtmatig
+            wanneer het kind ten minste 16 jaar is. Wanneer het kind jonger is dan 16&nbsp;jaar is zulke verwerking slechts rechtmatig indien en voor zover de toestemming of machtiging tot toestemming in dit verband wordt verleend door de persoon die
+            de ouderlijke verantwoordelijkheid voor het kind draagt.</p>
+        <p class="normal">De lidstaten kunnen dienaangaande bij wet voorzien in een lagere leeftijd, op voorwaarde dat die leeftijd niet onder 13&nbsp;jaar ligt.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Met inachtneming van de beschikbare technologie doet de verwerkingsverantwoordelijke redelijke inspanningen om in dergelijke gevallen te controleren of de persoon die de ouderlijke verantwoordelijkheid voor het kind draagt,
+            toestemming heeft gegeven of machtiging tot toestemming heeft verleend.</p>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;Lid&nbsp;1 laat het algemene overeenkomstenrecht van de lidstaten, zoals de regels inzake de geldigheid, de totstandkoming of de gevolgen van overeenkomsten ten opzichte van kinderen, onverlet.</p>
+        <p id="d1e2040-1-1" class="ti-art">Artikel 9</p>
+        <p class="sti-art">Verwerking van bijzondere categorieën van persoonsgegevens</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Verwerking van persoonsgegevens waaruit ras of etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuigingen, of het lidmaatschap van een vakbond blijken, en verwerking van genetische gegevens, biometrische
+            gegevens met het oog op de unieke identificatie van een persoon, of gegevens over gezondheid, of gegevens met betrekking tot iemands seksueel gedrag of seksuele gerichtheid zijn verboden.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Lid&nbsp;1 is niet van toepassing wanneer aan een van de onderstaande voorwaarden is voldaan:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">a)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de betrokkene heeft uitdrukkelijke toestemming gegeven voor de verwerking van die persoonsgegevens voor een of meer welbepaalde doeleinden, behalve indien in Unierecht of lidstatelijk recht is bepaald dat het in lid&nbsp;1 genoemde
+                            verbod niet door de betrokkene kan worden opgeheven;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">b)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk met het oog op de uitvoering van verplichtingen en de uitoefening van specifieke rechten van de verwerkingsverantwoordelijke of de betrokkene op het gebied van het arbeidsrecht en het socialezekerheids-
+                            en socialebeschermingsrecht, voor zover zulks is toegestaan bij Unierecht of lidstatelijk recht of bij een collectieve overeenkomst op grond van lidstatelijk recht die passende waarborgen voor de grondrechten en de fundamentele
+                            belangen van de betrokkene biedt;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">c)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk ter bescherming van de vitale belangen van de betrokkene of van een andere natuurlijke persoon indien de betrokkene fysiek of juridisch niet in staat is zijn toestemming te geven;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">d)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking wordt verricht door een stichting, een vereniging of een andere instantie zonder winstoogmerk die op politiek, levensbeschouwelijk, godsdienstig of vakbondsgebied werkzaam is, in het kader van haar gerechtvaardigde
+                            activiteiten en met passende waarborgen, mits de verwerking uitsluitend betrekking heeft op de leden of de voormalige leden van de instantie of op personen die in verband met haar doeleinden regelmatig contact met haar onderhouden,
+                            en de persoonsgegevens niet zonder de toestemming van de betrokkenen buiten die instantie worden verstrekt;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">e)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking heeft betrekking op persoonsgegevens die kennelijk door de betrokkene openbaar zijn gemaakt;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">f)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk voor de instelling, uitoefening of onderbouwing van een rechtsvordering of wanneer gerechten handelen in het kader van hun rechtsbevoegdheid;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">g)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk om redenen van zwaarwegend algemeen belang, op grond van Unierecht of lidstatelijk recht, waarbij de evenredigheid met het nagestreefde doel wordt gewaarborgd, de wezenlijke inhoud van het recht op
+                            bescherming van persoonsgegevens wordt geëerbiedigd en passende en specifieke maatregelen worden getroffen ter bescherming van de grondrechten en de fundamentele belangen van de betrokkene;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">h)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk voor doeleinden van preventieve of arbeidsgeneeskunde, voor de beoordeling van de arbeidsgeschiktheid van de werknemer, medische diagnosen, het verstrekken van gezondheidszorg of sociale diensten of
+                            behandelingen dan wel het beheren van gezondheidszorgstelsels en -diensten of sociale stelsels en diensten, op grond van Unierecht of lidstatelijk recht, of uit hoofde van een overeenkomst met een gezondheidswerker en behoudens
+                            de in lid&nbsp;3 genoemde voorwaarden en waarborgen;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">i)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk om redenen van algemeen belang op het gebied van de volksgezondheid, zoals bescherming tegen ernstige grensoverschrijdende gevaren voor de gezondheid of het waarborgen van hoge normen inzake kwaliteit
+                            en veiligheid van de gezondheidszorg en van geneesmiddelen of medische hulpmiddelen, op grond van Unierecht of lidstatelijk recht waarin passende en specifieke maatregelen zijn opgenomen ter bescherming van de rechten en vrijheden
+                            van de betrokkene, met name van het beroepsgeheim;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <colgroup>
+                <col width="4%">
+                <col width="96%">
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td valign="top">
+                        <p class="normal">j)</p>
+                    </td>
+                    <td valign="top">
+                        <p class="normal">de verwerking is noodzakelijk met het oog op archivering in het algemeen belang, wetenschappelijk of historisch onderzoek of statistische doeleinden overeenkomstig artikel&nbsp;89, lid&nbsp;1, op grond van Unierecht of lidstatelijk
+                            recht, waarbij de evenredigheid met het nagestreefde doel wordt gewaarborgd, de wezenlijke inhoud van het recht op bescherming van persoonsgegevens wordt geëerbiedigd en passende en specifieke maatregelen worden getroffen ter
+                            bescherming van de grondrechten en de belangen van de betrokkene.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="normal">3.&nbsp;&nbsp;&nbsp;De in lid&nbsp;1 bedoelde persoonsgegevens mogen worden verwerkt voor de in lid&nbsp;2, punt&nbsp;h), genoemde doeleinden wanneer die gegevens worden verwerkt door of onder de verantwoordelijkheid van een beroepsbeoefenaar
+            die krachtens Unierecht of lidstatelijk recht of krachtens door nationale bevoegde instanties vastgestelde regels aan het beroepsgeheim is gebonden, of door een andere persoon die eveneens krachtens Unierecht of lidstatelijk recht of krachtens
+            door nationale bevoegde instanties vastgestelde regels tot geheimhouding is gehouden.</p>
+        <p class="normal">4.&nbsp;&nbsp;&nbsp;De lidstaten kunnen bijkomende voorwaarden, waaronder beperkingen, met betrekking tot de verwerking van genetische gegevens, biometrische gegevens of gegevens over gezondheid handhaven of invoeren.</p>
+        <p id="d1e2127-1-1" class="ti-art">Artikel 10</p>
+        <p class="sti-art">Verwerking van persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten</p>
+        <p class="normal">Persoonsgegevens betreffende strafrechtelijke veroordelingen en strafbare feiten of daarmee verband houdende veiligheidsmaatregelen mogen op grond van artikel&nbsp;6, lid&nbsp;1, alleen worden verwerkt onder toezicht van de overheid of indien
+            de verwerking is toegestaan bij Unierechtelijke of lidstaatrechtelijke bepalingen die passende waarborgen voor de rechten en vrijheden van de betrokkenen bieden. Omvattende registers van strafrechtelijke veroordelingen mogen alleen worden
+            bijgehouden onder toezicht van de overheid.</p>
+        <p id="d1e2134-1-1" class="ti-art">Artikel 11</p>
+        <p class="sti-art">Verwerking waarvoor identificatie niet is vereist</p>
+        <p class="normal">1.&nbsp;&nbsp;&nbsp;Indien de doeleinden waarvoor een verwerkingsverantwoordelijke persoonsgegevens verwerkt, niet of niet meer vereisen dat hij een betrokkene identificeert, is hij niet verplicht om, uitsluitend om aan deze verordening te voldoen,
+            aanvullende gegevens ter identificatie van de betrokkene bij te houden, te verkrijgen of te verwerken.</p>
+        <p class="normal">2.&nbsp;&nbsp;&nbsp;Wanneer de verwerkingsverantwoordelijke in de in lid&nbsp;1 van dit artikel bedoelde gevallen kan aantonen dat hij de betrokkene niet kan identificeren, stelt hij de betrokkene daarvan indien mogelijk in kennis. In dergelijke
+            gevallen zijn de artikelen&nbsp;15 tot en met&nbsp;20 niet van toepassing, behalve wanneer de betrokkene, met het oog op de uitoefening van zijn rechten uit hoofde van die artikelen, aanvullende gegevens verstrekt die het mogelijk maken hem
+            te identificeren.</p>
+</section>
