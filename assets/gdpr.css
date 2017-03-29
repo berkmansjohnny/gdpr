@@ -331,7 +331,7 @@ p.ti-annotation {
 p.ti-art {
 	font-style: italic;
 	/* text-align: center; */
-	margin-left: -2rem;
+	margin-left: -1rem;
   font-weight: bolder;
 }
 .ti-art::after{
@@ -434,15 +434,15 @@ p.ti-sect-2 {
 	margin-bottom: 8px;
 }
 p.ti-section-1 {
-  margin-left: -2rem;
+  margin-left: -1rem;
 	font-weight: bold;
 	/* text-align: center; */
-	margin-top: 32px;
+	margin-top: 0;
 	margin-bottom: 0;
 }
 p.ti-section-2 {
 	font-weight: bold;
-  margin-left: -2rem;
+  margin-left: -1rem;
 	/* text-align: center; */
 	margin-top: 5px;
 	margin-bottom: 8px;

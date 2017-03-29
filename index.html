@@ -11,11 +11,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-  <link type="text/css" rel="stylesheet" href="assets/warpaint.css">
+  <link type="text/css" rel="stylesheet" href="/assets/warpaint.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
   <script src="https://www.w3schools.com/lib/w3data.js"></script>
-  <link type="text/css" rel="stylesheet" href="assets/gdpr.css">
+  <link type="text/css" rel="stylesheet" href="/assets/gdpr.css">
 </head>
 
 <body>
@@ -24,9 +24,10 @@
       <span class="progress-bar"></span>
     </div>
   </progress>
-  <!-- show your content here -->
-  <div w3-include-html="views/partials/header.html"></div>
-  <div w3-include-html="views/chapters/table-of-contents.html"></div>
+
+
+  <div w3-include-html="views/partials/navigation.html"></div>
+  <div w3-include-html="views/partials/table-of-contents.html"></div>
 
 
 
@@ -40,11 +41,11 @@
         </div>
         <div class="column inset text-center">
           <a href="#">
-            <span class="lnr lnr-chevron-menu"></span>
+            <span class="lnr lnr-menu"></span>
           </a>
         </div>
         <div class="column-1 inset text-center">
-          <a href="#">
+          <a href="views/chapters/intro.html">
             <span class="lnr lnr-chevron-right"></span>
           </a>
         </div>
@@ -60,8 +61,8 @@
   <script>
   w3IncludeHTML();
   </script>
-  <script type="text/javascript" src="assets/jquery.js"></script>
-  <script type="text/javascript" src="assets/gdpr.js"></script>
+  <script type="text/javascript" src="/assets/jquery.js"></script>
+  <script type="text/javascript" src="/assets/gdpr.js"></script>
 
 </body>
 </html>
